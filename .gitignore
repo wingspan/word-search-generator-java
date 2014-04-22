@@ -1,0 +1,16 @@
+Thumbs.db
+.gradle
+*.iml
+build
+/_mystuff/
+/build.log
+.idea/
+.DS_STORE
+node_modules
+bower_components/
+/js-built
+/spec-built
+app.css
+/dist/
+/.grunt
+/.settings
